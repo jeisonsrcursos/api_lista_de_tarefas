@@ -1,4 +1,4 @@
-# API para uso do Curso Programador FrontEnd
+# API para uso do Curso Programador Front-End
 
 ### API desenvolvida com Python + Django + Django Rest Framework + Swagger
 
